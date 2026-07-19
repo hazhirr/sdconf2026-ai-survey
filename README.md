@@ -3,7 +3,7 @@
 A live, self-contained results dashboard from the survey on how AI will impact
 the practice, teaching, and future of system dynamics over the coming decade.
 
-**View the report:** https://YOUR-USERNAME.github.io/sdconf2026-ai-survey/
+**View the report:** https://hazhirr.github.io/sdconf2026-ai-survey/
 
 The page (`index.html`) is a single self-contained file — colour-coded response
 distributions, a reverse-adjusted Optimism Mean per statement, an overall
